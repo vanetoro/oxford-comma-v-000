@@ -1,4 +1,3 @@
 def oxford_comma(array)
- while array.size > 2
- array.shift
+ array.to_s
 end
